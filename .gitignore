@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Expo
+.expo/
+.expo-shared/
+
+# Android
+android/
+*.keystore
+
+# iOS
+ios/
+Pods/
+
+# Misc
+.DS_Store
+*.env
